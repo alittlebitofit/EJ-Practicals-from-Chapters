@@ -1,0 +1,12 @@
+package com.example;
+
+import jakarta.servlet.http.HttpServlet;
+
+
+@WebServlet("/register")
+public class Register extends HttpServlet {
+
+	
+	
+	
+}
